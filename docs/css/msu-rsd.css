@@ -1,0 +1,15 @@
+.md-header {
+    background-image: url(/img/narrow_codestrips_header.png);
+    height: 120px;
+}
+
+.md-header__inner {
+    height: 90px;
+    padding-bottom: 2em;
+    padding-top: 2em;
+} 
+
+
+.md-header__title {
+    font-size: 1.2rem;
+}

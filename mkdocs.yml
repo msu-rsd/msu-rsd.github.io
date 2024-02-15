@@ -1,0 +1,46 @@
+site_name: MSU Research Software Developers Group
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+copyright: (c) 2024
+
+extra_css:
+  - css/msu-rsd.css
+
+plugins:
+  - blog:
+      blog_dir: news
+      archive: false
+      categories: false
+      authors: false
+
+markdown_extensions:
+  - meta
+  - attr_list
+  - pymdownx.magiclink
+  - pymdownx.inlinehilite
+  - pymdownx.superfences:
+      preserve_tabs: true
+  - pymdownx.highlight:
+      use_pygments: true
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - md_in_html
