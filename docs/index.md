@@ -10,7 +10,7 @@ hide:
 
 We are a new, informal, grass-roots group for research software developers within the Michigan State University Community
 
-> *"Software is a crucial part of research and instruction, and the need to develop custom software (or modify existing tools to a new purpose) is an ever-growing issue for more and more scholarly communities."* - Dr. Brian O'Shea
+Software is a crucial part of research and instruction, and the need to develop custom software (or modify existing tools to a new purpose) is an ever-growing issue for more and more scholarly communities.   Software development is increasingly a core component in the engine of innovation and scholarship at our university.    
 
 Our goal is to create a community for those who write code to support all manner scholarly pursuits here at MSU.  We are supported by, but not affiliated with any MSU Unit or department.  
 
