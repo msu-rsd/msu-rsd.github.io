@@ -1,3 +1,9 @@
+---
+hide:  
+  - navigation
+  - toc
+---
+
 # Contacts
 
 As the group coalesces we will determine the means to build a mailing list and forms of communication. 
