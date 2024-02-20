@@ -52,16 +52,7 @@ Our intent to provide a welcoming and safe space for all members of the MSU comm
 
 > 367 Wilson Rd, MSU Campus
 
-All are welcome to attend this inital organizational meeting  
-
-**First meeting agenda:** 
-
-- Welcome & Background
-- Why are we here? What are our common interests?
-- Introductions
-- Optional Sharing work stories.  What kind of work do we do to support the research and academic missions of MSU?
-- Shaping the direction of this community
-- Plan for future communications, meetings, and activities
+All are welcome to attend this initial organizational meeting.  For more information, see the [announcement](news/2024/02/14/first-meeting-scheduled-for-march-7th/)
 
 
 ## Communications
