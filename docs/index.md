@@ -4,60 +4,26 @@ hide:
   - toc
 ---
 
-# MSU-RSD
 
-## *Michigan State University Research Software Developers Group*
+# The Michigan State University Research Software Developers Group
 
-We are a new, informal, grass-roots group for research software developers within the Michigan State University Community
+We are an informal, volunteer-run, grass-roots group for research software developers formed March 2024 within the Michigan State University Community.  
 
-Software is a crucial part of research and instruction, and the need to develop custom software (or modify existing tools to a new purpose) is increasingly a core component in the engine of innovation and scholarship at our university.    
+**[About this group](about)**
 
-Our goal is to create a community for those who write code to support all manner scholarly pursuits here at MSU.  We are supported by, but not affiliated with any MSU Unit or department.  
+## Next Meeting
 
-## We welcome: 
+> **Wednesday May 29th, 2024  12:00pm to 1:30pm**
 
-- all who code, not limited to those with computer science or engineering training or backgrounds.  
-- who may not consider themselves professional 'engineers' even though they may spent time coding to support their work.  
-- all kinds of coders, not limited (but including) to application or web development.  
-- those from all disciplines who use software to acheive their scholarly goals, not limted to STEM fields.   Diverse scholarly activities often require equally diverse custom software.  
-- those who code but may not consider themselves "programmers."  You may be an academic first and coder second but are interested in discussing and improving your software development skills
-- builders, tinkerers, and creators of software that supports the research and academic missions of MSU
+> ICER Seminar Room, inside 1440 Biomedical and Physcial Sciences Building
 
-
-## Affinity Groups
-
-- The MSU WebDEV CAFE: https://tech.msu.edu/about/it-groups/webdev/
-- The US Research Software Engineering Association https://us-rse.org
-
-
-## Statement of Intent:
-
-Our intent to provide a welcoming and safe space for all members of the MSU community who develop software to support their academic or research team to discuss the practice of software development.   We especially encourage members of groups who are under-represented in the tech industry and academia. 
-
-- Access for all
-- Fostering collaboration
-- Building community
-- Support career development
-- widen perspectives to foster inclusivity
-
-*adapted from the Society of Research Software Engineering*
-
-## Events
-
-### Initial Meeting
-
-> March 7th, 2024  3:30 to 5:00 pm
-
-> Room 1400 Biomedical and Physcial Sciences Building
-
-> 367 Wilson Rd, MSU Campus
-
-All are welcome to attend this initial organizational meeting.  For more information, see the [announcement](news/2024/02/14/first-meeting-scheduled-for-march-7th/)
+All are welcome to attend!  For more information, see the [announcement](news/2024/05/19/Third-meeting-May-29-2024/)
 
 
 ## Communications
 
-To be determined at the first meeting.  For now, please see *Contacts* below
+- informal[MS Teams Channel](https://teams.microsoft.com/l/team/19%3AtSltcSVQpNxg2S7iG6DLB3AJEUlHAVTy0v-s2TVRcek1%40thread.tacv2/conversations?groupId=ad060111-8356-4712-87ea-4df2736e14ad&tenantId=22177130-642f-41d9-9211-74237ad5687d) hosted by MSU.  Currently restricted to members of the MSU community (with an MSU NetID) but anyone here may join.  
+- email list.  Please send your MSU NetID or preferred email to Pat Bills billspat@msu.edu or Andrew Fullard fullarda@msu.edu
 
 
 ## Supported By 

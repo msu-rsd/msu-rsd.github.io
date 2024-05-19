@@ -5,5 +5,5 @@ hide:
 ---
 
 
-# News
+# News/Events
 
