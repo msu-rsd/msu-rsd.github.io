@@ -17,7 +17,12 @@ As always (*n=2*), we anticipate the meeting will take approximately 90 minutes 
 
 We are looking for volunteers to present the project they are working on, or for additional meeting agenda topics.   We will update this annoucement if anyone steps up to present. 
 
+Agenda:
 
+ - General Announcements (anyone can make an announcement) 
+ - Research Projects around campus ( need volunteers!)
+ - Build Resource list:  Pool a list of resources valuable that MSU RSD's have found valuable on or off campus
+ 
 If you have any questions or would like to attend via zoom for this or any future meeting and need the meeting ID and password,  please contact:
 
 - Pat Bills billspat@msu.edu
