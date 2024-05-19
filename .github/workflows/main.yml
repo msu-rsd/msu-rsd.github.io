@@ -2,12 +2,25 @@
 
 # # Controls when the action will run. Triggers the workflow on push or pull request
 # # events but only for the master branch
-# on:
-#   push:
-#     branches: [main]
-#   pull_request:
-#     branches: [main]
+on:
+    push:
+      branches:
+        - main
 
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Main
+              uses: actions/checkout@v2
+            - name: add some python
+              uses: actions/setup-python@v2
+              with:
+                python-version: 3.x
+            - name: install mkdocs
+              run: pip install mkdocs-material
+            - name: build
+              run: mkdocs gh-deploy --force --clean --verbose
 # jobs:
 #   build:
 #     name: Build and Deploy Documentation
