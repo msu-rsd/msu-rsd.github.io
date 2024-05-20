@@ -7,7 +7,7 @@ categories:
 
 The 3rd meeting of the MSU-RSD is set for **Wednesday May 29, 2024, 12:00 pm** in the ICER Seminar Room, inside **Room 1440 in the BPS building, 567 Wilson Road**
 
-An announcement will be sent to the MSU RSD mailing lists and posted on MSU Teams that will include a zoom link for remote participation.  
+If you are interested in attending or would like the zoom meeting ID/PW, please complete this [Google Attendance form](https://docs.google.com/forms/d/e/1FAIpQLSdDa4kFcIo3XqnCBYSqyBm7b4JMhxmsgL0pu1y_1eSd1VAhHQ/viewform?usp=sf_link) to gauge attendance (MSU Google log-in required)
 
 <!-- more -->
 *Note  that the door to 1440 is locked but someone will stand by and let you in.  There is a doorbell if you need access.*
@@ -24,7 +24,9 @@ Agenda:
  - Research Projects around campus ( need volunteers!)
  - Build Resource list:  Pool a list of resources valuable that MSU RSD's have found valuable on or off campus
  
-If you have any questions or would like to attend via zoom for this or any future meeting and need the meeting ID and password,  please contact:
+This announcement will also be sent to the MSU RSD mailing list and posted on our MS-Teams inlcuding the zoom link
+
+If you have any questions please contact:
 
 - Pat Bills billspat@msu.edu
 - Andrew Fullard fullarda@msu.edu
