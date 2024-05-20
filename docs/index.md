@@ -22,8 +22,8 @@ All are welcome to attend!  For more information, see the [announcement](news/20
 
 ## Communications
 
-- informal[MS Teams Channel](https://teams.microsoft.com/l/team/19%3AtSltcSVQpNxg2S7iG6DLB3AJEUlHAVTy0v-s2TVRcek1%40thread.tacv2/conversations?groupId=ad060111-8356-4712-87ea-4df2736e14ad&tenantId=22177130-642f-41d9-9211-74237ad5687d) hosted by MSU.  Currently restricted to members of the MSU community (with an MSU NetID) but anyone here may join.  
-- email list.  Please send your MSU NetID or preferred email to Pat Bills billspat@msu.edu or Andrew Fullard fullarda@msu.edu
+- [MS Teams Channel](https://teams.microsoft.com/l/team/19%3AtSltcSVQpNxg2S7iG6DLB3AJEUlHAVTy0v-s2TVRcek1%40thread.tacv2/conversations?groupId=ad060111-8356-4712-87ea-4df2736e14ad&tenantId=22177130-642f-41d9-9211-74237ad5687d) hosted by MSU.  Currently restricted to members of the MSU community (with an MSU NetID) but anyone here may join.  
+- email list.  Please [contact us](contact) with your MSU NetID or preferred email to be added to the list
 
 
 ## Supported By 
