@@ -17,12 +17,15 @@ We are looking for volunteers to present a project they are working on, or some 
 
 Agenda:
 
- - General Announcements (anyone can make an announcement) 
- - Presentations of Research or Software Projects ( seeking volunteers)
- - Collaborate on an RSD Resource list
- 
+ 1. General Announcements (anyone can make an announcement) 
+ 2. Presentations of Research or Software Projects ( seeking volunteers)
+ 3. Organizing social coding sessions for students and/or staff
+ 4. Collaborate on an RSD Resource list
 
-For the last item on our agenda, we would like to start a list of helpful resources for anyone building software for scholarly work on campus.   That could be a list or relevant associations, journals or other publications that directly speak to software development (Like [JOSS](https://joss.theoj.org/)).   Come with your ideas for what kinds of information we should share that would help fellow developers understand the landscape here at MSU.  
+ 
+Item 3:  To foster coding practices for new developers or students, we would like help organize a place and time for staff or students to work on their codes but in each other's company.
+
+Item 4:  To help junior developers or those new to MSU, we would like to start a list of helpful resources for anyone building software for scholarly work on campus.   That could be a list or relevant associations, journals or other publications that directly speak to software development (Like [JOSS](https://joss.theoj.org/)).   Come with your ideas for what kinds of information we should share that would help fellow developers understand the landscape here at MSU.  
 
 We'd love to know how many may be coming.   Please complete this short google form: https://forms.gle/vKLoKASqfMGhgYaY6 about your intention to attend (requires MSU google login, which may mean using a new private browser window).  If you've been forwarded this email and would like to join the mailing list, complete the form or contact us.  
 
