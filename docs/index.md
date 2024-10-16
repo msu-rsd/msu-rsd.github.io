@@ -9,15 +9,15 @@ hide:
 
 We are an informal, volunteer-run, grass-roots group for research software developers formed March 2024 within the Michigan State University Community.  
 
-**[About this group](about)**
+**[About this group](about.md)**
 
 ## Next Meeting
 
-> **Wednesday May 29th, 2024  12:00pm to 1:30pm**
+> **Wednesday October 30th, 2024  3:00pm to 4:00pm**
 
-> ICER Seminar Room, inside 1440 Biomedical and Physcial Sciences Building
+> Room 211 (Red Cedar Instruction room), MSU Main Library, West Wing, Second floor
 
-All are welcome to attend!  For more information, see the [announcement](news/2024/05/19/Third-meeting-May-29-2024/)
+All are welcome to attend!  For more information, see the [announcement](news/posts/September-2024-recap,-next%20meeting%20Oct%2030.md)
 
 
 ## Communications

@@ -30,4 +30,4 @@ Our goal is to create a community for those who write code to support all manner
 - The US Research Software Engineering Association https://us-rse.org
 
 
-*for detail about our intent and goals, see our [charter](draft-charter)*
+*for detail about our intent and goals, see our [charter](./charter.md)*
