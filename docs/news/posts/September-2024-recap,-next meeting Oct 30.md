@@ -24,8 +24,8 @@ ICER's Craig Gross ( grosscra@msu.edu ) has organized the MSU "Programming in Pr
 They are working through the on-line book [Research Software Engineering with Python](https://third-bit.com/py-rse/), "for researchers who are already using Python for their data analysis, but who want to take their coding and software development to the next level..." 
 I attended the first event on October 1st and this will be great resource.   While they held their first meeting, please contact Craig if you, or if you know of someone who is making the journey from code to software dev.  
 
-If you haven't heard of [PyOpenSci](https://www.pyopensci.org) you should check it out.   I learned about it at last year's US-RSE 
-conference.  Patterned after [ROpenSci](https://ropensci.org).  Both organizations help develop packages for the sciences via community driven learning, review, and maintenance of contributed software.    PyOpenSci is holding a [pyOpenSci Fall Festival](pyOpenSci Fall Festival) October 28 - November 1 with keynotes and full-day workshops.  It's not free but there are scholarships.   I'm sharing this event as the workshops look really good and topical.   
+If you haven't heard of [PyOpenSci](https://www.pyopensci.org/) you should check it out.   I learned about it at last year's US-RSE 
+conference.  Patterned after [ROpenSci](https://ropensci.org/).  Both organizations help develop packages for the sciences via community driven learning, review, and maintenance of contributed software.    PyOpenSci is holding a [pyOpenSci Fall Festival](pyOpenSci Fall Festival) October 28 - November 1 with keynotes and full-day workshops.  It's not free but there are scholarships.   I'm sharing this event as the workshops look really good and topical.   
 
 
 ### Next Meeting October 30, 3pm
@@ -40,8 +40,3 @@ The US Research Software Engineering annual conference is going on now in Albequ
 and discuss ways to be more involved.   
 
 We will offer a zoom link for those who can't attend, sent to our email list, and on the MSU Teams channel.  Feel free to [contact us](../../contact.md)
-
-
-
-
-
