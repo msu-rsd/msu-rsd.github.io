@@ -1,13 +1,16 @@
 ---
 date: 2024-03-25 
-more: false
 categories:
   - Meeting
 ---
 
-The second meeting of the MSU-RSD is scheduled for **Monday April 22, 2024** in the large conference room of the department of Computational Mathematics, Science and Engineering (CMSE)
-1502 Engineering Bldg, on the MSU Campus.  
+The second meeting of the MSU-RSD is scheduled for **Monday April 22, 2024** 
+
 <!-- more -->
+
+We will meet in the large conference room of the department of Computational Mathematics, Science and Engineering (CMSE)
+1502 Engineering Bldg, on the MSU Campus.  
+
  
 An announcement was sent over campus mailing lists that included a zoom link for remote participation.  
 Drinks and afternoon snacks will be provided.

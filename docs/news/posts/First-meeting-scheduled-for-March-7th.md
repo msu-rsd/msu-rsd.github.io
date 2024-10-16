@@ -1,6 +1,5 @@
 ---
 date: 2024-02-14 
-more: false
 categories:
   - Announcements
 ---

@@ -1,17 +1,16 @@
 ---
 date: 2024-05-19
-more: false
 categories:
   - Meeting
 ---
 
 The 3rd meeting of the MSU-RSD is set for Wednesday May 29, 2024, 12:00 pm in the ICER Seminar Room, inside room 1440 in the BPS building, 567 Wilson Road
 
+<!-- more -->
+
 Please contact us for a zoom link to attend remotely  .  (*NB: I sent an incorrect zoom link earlier this month, please contact us if you can't connect.  See the announcement on our [Microsoft Teams channel](https://teams.microsoft.com/l/team/19:tSltcSVQpNxg2S7iG6DLB3AJEUlHAVTy0v-s2TVRcek1@thread.tacv2/conversations?groupId=ad060111-8356-4712-87ea-4df2736e14ad&tenantId=22177130-642f-41d9-9211-74237ad5687d). 
 
 *Note that the door to 1440 is locked and can't be left open, but someone will stand by and let you in.  There is a doorbell if you need access.*
-
-<!-- more -->
 
 We anticipate the meeting will take approximately 90 minutes and you may drop in at any time.  Pizza, drinks, and snacks will be provided.    
 
