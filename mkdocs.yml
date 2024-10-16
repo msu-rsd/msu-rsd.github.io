@@ -24,7 +24,7 @@ nav:
   - Home: 'index.md'
   - About: 'about.md'
   - Charter: 'charter.md'
-  - News/Events: 'news'
+  - News/Events: 'news/index.md'
   - Contact: 'contact.md'
   
 copyright: (c) 2024
