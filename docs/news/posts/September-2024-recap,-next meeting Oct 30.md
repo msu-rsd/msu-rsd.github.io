@@ -15,7 +15,7 @@ We held our September meeting on the 25th in the ICER Seminar room.   Kevin Fink
 really practiced.    Kevin had a great section that he called 'Dark Agile' or anti-patterns in it's practice.    "It's called a stand-up for a reason!"
 
 ![Finkenbinder_presentation_title_slide.jpg](../../img/Finkenbinder_presentation_title_slide.jpg)<br>
-[Presentation: Perspectives on Agile from a non-agile person (K. Finkenbinder)](img/Finkenbinder_2024_Perspectives_on_Agile_from_a_non-agile_person.pdf)  (PDF, 407K)
+[Presentation: Perspectives on Agile from a non-agile person (K. Finkenbinder)](../../img/Finkenbinder_2024_Perspectives_on_Agile_from_a_non-agile_person.pdf)  (PDF, 407K)
 
 ### News/Highlights
 
@@ -39,7 +39,7 @@ The next meeting of the MSU Research Software Developers Group will be held:
 The US Research Software Engineering annual conference is going on now in Albequerque, NM.   We will hear a summary of that meeting 
 and discuss ways to be more involved.   
 
-We will offer a zoom link for those who can't attend, sent to our email list, and on the MSU Teams channel.  Feel free to [contact us](contact.md) for a link at any time.   
+We will offer a zoom link for those who can't attend, sent to our email list, and on the MSU Teams channel.  Feel free to [contact us](../../contact.md)
 
 
 
