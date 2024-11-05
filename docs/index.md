@@ -13,7 +13,7 @@ We are an informal, volunteer-run, grass-roots group for research software devel
 
 ## Next Meeting
 
-> ** Wedneday December 4th, 2024  1:00 pm to 2:30 pm**
+> **Wedneday December 4th, 2024  1:00 pm to 2:30 pm**
 
 > Room W325 Beal Instruction room, MSU Main Library, West Wing, third floor
 
