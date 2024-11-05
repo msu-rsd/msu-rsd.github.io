@@ -13,11 +13,11 @@ We are an informal, volunteer-run, grass-roots group for research software devel
 
 ## Next Meeting
 
-> **Wednesday October 30th, 2024  3:00pm to 4:00pm**
+> ** Wedneday December 4th, 2024  1:00 pm to 2:30 pm**
 
-> Room 211 (Red Cedar Instruction room), MSU Main Library, West Wing, Second floor
+> Room W325 Beal Instruction room, MSU Main Library, West Wing, third floor
 
-All are welcome to attend!  For more information, see the [announcement](news/posts/September-2024-recap,-next%20meeting%20Oct%2030.md)
+All are welcome to attend!   Thank you to the MSU Libraries for hosting this and to Kevin Finkenbinder for reserving the room.   Note there will not be a meeting in November.  We will meet again in January 2025. 
 
 
 ## Communications
