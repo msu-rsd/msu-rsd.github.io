@@ -28,6 +28,9 @@ Our goal is to create a community for those who write code to support all manner
 
 - The MSU WebDEV CAFE: https://tech.msu.edu/about/it-groups/webdev/
 - The US Research Software Engineering Association https://us-rse.org
+- Campus Research Computing Consortium (CaRCC)  https://carcc.org <br>
+*an organization of research computing and data (RCD)
+and related professionals*
 
 
 *for detail about our intent and goals, see our [charter](./charter.md)*

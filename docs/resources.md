@@ -5,16 +5,11 @@ hide:
   - toc
 ---
 
-## Resources for Developers of Academic/Research Software
+## Past Presentations
 
-US-RSE: https://us-rse.org  Group for Research Software Engineering
+Past MSU RSD presenters have chosen to make these presentations available. Presentations are ordered newest to oldest.
 
-- The first annual US-RSE conference was held October 2023.   [conference proceedings on Zenodo](https://zenodo.org/communities/usrse23?q=&l=list&p=1&s=10&sort=newest)
+### 2024
 
-
-Society of Research Software Engineering (UK) https://society-rse.org
-
-
-Campus Research Computing Consortium (CaRCC)  https://carcc.org <br>
-*an organization of research computing and data (RCD)
-and related professionals*
+* Oct: [Notes from US-RSE '24 (C. Kopenhafer)](https://docs.google.com/presentation/d/1SCtpTztdegw5MYK6DHQrGXwJMtPcGRnWK6-7C2tS6KA/edit?usp=sharing) (Google Slides; MSU sign-in required)
+* Sep: [Perspectives on Agile from a non-agile person (K. Finkenbinder)](img/Finkenbinder_2024_Perspectives_on_Agile_from_a_non-agile_person.pdf)  (PDF, 407K)

@@ -1,15 +1,17 @@
 ---
-date: 2024-11-05 
+date: 2024-11-05
 more: true
 categories:
   - Announcements
 ---
 
+**Updated Nov 6**: added a link to the slides for Dr. Kopenhafer's presentation
+
 We had a great meeting at the MSU Libraries on October 25th, 2024. 
 
  - Dr. Julian Vengas plugged the MSU AI Community of Practice 
  - MSU Library programmers discussed their excellent set-up for CI/CD and enforcing coding standards. 
- - Dr. Claire Kopenhofer presented highlights from the US-RSE 2024 Conference 
+ - Dr. Claire Kopenhafer [presented highlights](https://docs.google.com/presentation/d/1SCtpTztdegw5MYK6DHQrGXwJMtPcGRnWK6-7C2tS6KA/edit?usp=sharing) from the US-RSE 2024 Conference 
  - Lively discussion of the role in AI for programming and for other applications
 
 Our next meeting is **December 4th, 2024** 1:00 pm  to 2:30 pm.  
