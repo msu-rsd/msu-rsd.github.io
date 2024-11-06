@@ -5,7 +5,7 @@ categories:
   - Announcements
 ---
 
-*A recap of last months meeting, aannouncements, and our next meeting coordinates...*
+*A recap of last months meeting, announcements, and our next meeting coordinates...*
 
 <!-- more -->
 
